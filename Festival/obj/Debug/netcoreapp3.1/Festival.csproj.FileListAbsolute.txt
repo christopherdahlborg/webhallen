@@ -1,0 +1,11 @@
+C:\Users\zeke1\source\repos\Festival\Festival\obj\Debug\netcoreapp3.1\Festival.csprojAssemblyReference.cache
+C:\Users\zeke1\source\repos\Festival\Festival\obj\Debug\netcoreapp3.1\Festival.AssemblyInfoInputs.cache
+C:\Users\zeke1\source\repos\Festival\Festival\obj\Debug\netcoreapp3.1\Festival.AssemblyInfo.cs
+C:\Users\zeke1\source\repos\Festival\Festival\bin\Debug\netcoreapp3.1\Festival.exe
+C:\Users\zeke1\source\repos\Festival\Festival\bin\Debug\netcoreapp3.1\Festival.deps.json
+C:\Users\zeke1\source\repos\Festival\Festival\bin\Debug\netcoreapp3.1\Festival.runtimeconfig.json
+C:\Users\zeke1\source\repos\Festival\Festival\bin\Debug\netcoreapp3.1\Festival.runtimeconfig.dev.json
+C:\Users\zeke1\source\repos\Festival\Festival\bin\Debug\netcoreapp3.1\Festival.dll
+C:\Users\zeke1\source\repos\Festival\Festival\bin\Debug\netcoreapp3.1\Festival.pdb
+C:\Users\zeke1\source\repos\Festival\Festival\obj\Debug\netcoreapp3.1\Festival.dll
+C:\Users\zeke1\source\repos\Festival\Festival\obj\Debug\netcoreapp3.1\Festival.pdb
